@@ -1,0 +1,45 @@
+baseURL = "http://danielabrozzoni.com/"
+languageCode = "en-us"
+title = "Daniela Brozzoni"
+theme = "cactus"
+
+[params]
+colortheme = "classic"
+description = "Yo! Daniela here. I'm interested in Rust, maths and Bitcoin."
+mainSection = "posts"
+mainSectionTitle = "Blog"
+#tagsOverview = true
+mathjax = true # just in case, you know...
+
+[[params.social]]
+name = "github"
+link = "https://github.com/danielabrozzoni"
+
+[[params.social]]
+name = "twitter"
+link = "https://twitter.com/danielabrozzoni"
+
+[[params.social]]
+name = "email"
+link = "danielabrozzoni@protonmail.com"
+
+# Main menu which appears below site header.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 4
