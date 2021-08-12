@@ -4,7 +4,7 @@ title = "Daniela Brozzoni"
 theme = "cactus"
 
 [params]
-colortheme = "classic"
+colortheme = "light"
 description = "Yo! Daniela here. I'm interested in Rust, maths and Bitcoin."
 mainSection = "posts"
 mainSectionTitle = "Blog"
