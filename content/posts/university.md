@@ -1,7 +1,8 @@
 ---
 title: Post - Why going to University wasn't the right choice for me
 date: 2020-04-08 00:00:00
-tags: personal
+tags:
+    - personal
 categories: posts
 ---
 
