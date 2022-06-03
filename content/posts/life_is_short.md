@@ -119,7 +119,17 @@ The best I can do is:
 
 ![](../images/pizzaday2022_slides/life_is_short_16.jpg)
 
-(Someone from the audience told me Coldcard's way of splitting the secret into multiple parts is superior to SSS, but I really can't find any information on that online. If you have an idea what he could have been referring to, please let me know!)
+Someone from the audience told me Coldcard's way of splitting the secret into multiple parts is superior to SSS, but I really can't find any information on that online. ~~If you have an idea what he could have been referring to, please let me know!~~
+
+`<edit>`
+
+Many thanks to [@SomsenRuben](https://twitter.com/SomsenRuben) and [@JohnCantrell97](https://twitter.com/JohnCantrell97) who kindly told me that the tool is called https://seedxor.com/ :)
+
+Ruben also showed me this nice trick for splitting a 24 words seed: https://gist.github.com/RubenSomsen/4c148e5fe1338269666718ad45345b42.
+
+As this scheme is not really standard, you have to remember (or write down somewhere) that you actually used it, or recovering your funds might be impossible. This actually applies to most of the tricks listed here: you should always back up which scheme you used to save your funds! When you move your funds to exotic solutions, it's fairly easy to just *forget* what you did and lose everything.
+
+`</edit>`
 
 --------
 
