@@ -13,6 +13,8 @@ A little introduction on what's mining followed by an in-depth explanation of th
 
 Thanks Bitcoin Munich for having me!
 
+<!--more-->
+
 # Slides
 
 ![](../images/bitcoinmunich_slides/BTC_munich.jpg)

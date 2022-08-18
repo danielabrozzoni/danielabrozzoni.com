@@ -13,6 +13,8 @@ A in depth-explanation of the Stratum V2 protocol - oh, and also, my first publi
 
 Thanks BitcoinDevsLa for having me!
 
+<!--more-->
+
 # Slides
 
 ![](../images/bitcoindevsla_slides/BitcoinDevsLa.jpg)

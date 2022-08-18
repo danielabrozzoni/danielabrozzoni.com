@@ -12,6 +12,8 @@ At a certain point of my life I had to decide: should I study computer science? 
 
 And then I realized that going to college wasn’t the right choice for me. Although I had good grades, and I really enjoy learning, I felt like going to University was the easy, not optimized, not so useful, path.
 
+<!--more-->
+
 Hey hey hey, don’t get angry. Yep, I just defined University “easy”, “not optimized” and “basically useless” (for me). Please, hear me out.
 
 First of all: why easy? I know your thoughts: “If this bitch thinks University is easy, she should definitely study Calculus. Or learn all the TCP and UDP port numbers, by heart, while walking on her hands and fighting against Hitler in WW2, as I did when I was her age! Fucking zoomer.”

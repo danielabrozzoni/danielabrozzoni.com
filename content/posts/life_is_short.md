@@ -11,6 +11,8 @@ Paralelni Polis organized a Pizza Day conference! It was short and sweet, less t
 
 I gave a pretty sad talk about death, but people seemed to enjoy it, for some reason. I decided to write a *kinda-transcript* around the slides, so I could share the sorrow with everyone who opened my blog, instead of limiting it to the Pizza Day participants. Pretty altruistic if you ask me.
 
+<!--more-->
+
 I'm not literally going to transcribe everything I said - I'm just going to add some comments to the less verbose slides. 
 
 Well, let's get started.

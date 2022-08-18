@@ -1,3 +1,10 @@
++++
+title = "About"
+date = 2020-06-28 00:00:00
+showLicense = false
+showToc = false
++++
+
 Hey, I'm Daniela.
 I'm a Bitcoin enthusiast and a software developer. I love Rust 🦀 and I spend most of my time contributing to BitcoinDevKit.
 

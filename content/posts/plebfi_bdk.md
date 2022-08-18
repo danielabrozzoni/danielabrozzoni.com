@@ -12,3 +12,5 @@ I was at [pleb.fi](pleb.fi/miami2022) talking about BDK - exploring why it's so 
 The talk was not recorded, but you can find slides [here](https://slides.com/danielabrozzoni/bdk-primer).
 
 Thanks Jeremy for having me!
+
+<!--more-->
