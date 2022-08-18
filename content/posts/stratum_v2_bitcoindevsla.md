@@ -1,8 +1,9 @@
 ---
-title: Talk - Stratum V2 @ BitcoinDevsLa
+title: Stratum V2 @ BitcoinDevsLa
 tags:
     - Bitcoin
     - Mining
+    - Talk
 date: 2021-01-21
 categories: talks
 ---

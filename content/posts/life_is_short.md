@@ -1,10 +1,10 @@
 ---
-title: Talk - Life is short, Bitcoin is forever (a kinda-transcript)
+title: Life is short, Bitcoin is forever (a kinda-transcript)
 date: 2022-05-21T17:06:09+02:00
 tags:
     - Bitcoin
     - BDK
-categories: talks
+    - Talk
 ---
 
 Paralelni Polis organized a Pizza Day conference! It was short and sweet, less than 48 hours long, but a really nice occasion to meet with fellow bitcoiners and ~~get drunk~~ eat pizza!

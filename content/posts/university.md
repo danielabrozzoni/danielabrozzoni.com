@@ -1,9 +1,8 @@
 ---
-title: Post - Why going to University wasn't the right choice for me
+title: Why going to University wasn't the right choice for me
 date: 2020-04-08 00:00:00
 tags:
     - personal
-categories: posts
 ---
 
 I am 20. I finished high school eight months ago. I’ve learned about computer science, along with mathematics, for the past five years.

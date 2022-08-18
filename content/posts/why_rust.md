@@ -1,10 +1,10 @@
 ---
-title: Zine - Why Rust?
+title: Why Rust?
 date: 2020-06-28 00:00:00
 tags:
     - Rust
     - Computer science
-categories: zines
+    - Zine
 ---
 
 ![](../images/why-rust.svg)

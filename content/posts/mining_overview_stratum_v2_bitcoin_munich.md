@@ -1,10 +1,10 @@
 ---
-title: Talk - Mining overview + Stratum V2 @ Bitcoin Munich
+title: Mining overview + Stratum V2 @ Bitcoin Munich
 tags:
     - Bitcoin
     - Mining
+    - Talk
 date: 2021-02-21 00:00:00
-categories: talks
 ---
 
 A little introduction on what's mining followed by an in-depth explanation of the Stratum V2 protocol.

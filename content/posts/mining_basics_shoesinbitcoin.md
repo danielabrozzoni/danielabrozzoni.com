@@ -1,10 +1,10 @@
 ---
-title: Talk - Mining For Beginners @ Shoes in Bitcoin
+title: Mining For Beginners @ Shoes in Bitcoin
 tags:
     - Bitcoin
     - Mining
+    - Talk
 date: 2021-03-21 14:00:00
-categories: talks
 ---
 
 Mining explained in simple terms, suitable for beginners and non-technicals.

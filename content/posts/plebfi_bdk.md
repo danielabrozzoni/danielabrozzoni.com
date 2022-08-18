@@ -1,10 +1,10 @@
 ---
-title: Talk - BDK primer @ pleb.fi Miami
+title: BDK primer @ pleb.fi Miami
 tags:
     - Bitcoin
     - BDK
+    - Talk
 date: 2022-04-04 10:30:00
-categories: talks
 ---
 
 I was at [pleb.fi](pleb.fi/miami2022) talking about BDK - exploring why it's so hard to build wallets from scratch, and how BDK (and other tools) might help.
