@@ -6,4 +6,4 @@
 	url = https://github.com/nodejh/hugo-theme-mini.git
 [submodule "themes/fuji"]
 	path = themes/fuji
-	url = https://github.com/dsrkafuu/hugo-theme-fuji.git
+	url = https://github.com/danielabrozzoni/hugo-theme-fuji.git
