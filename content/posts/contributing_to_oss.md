@@ -92,7 +92,7 @@ Normally, it is stated *somewhere* how to run tests - if not, just try running t
 
 If you can't understand something, feel free to ask for help, but don't do it straight away - spend a bit of time investigating the problem, knowing that even if you can't get to the solution yourself, you'll still learn something along the way. Try to remember that the project maintainers are probably handling many other newcomers like you, and try not to be a burden to them.
 
-![](../images/oss/harshbuttrue.png)
+![](../images/oss/harshbuttrue.jpg)
 
 Warning: Many Bitcoin projects use IRC for communications, which is, and this is coming from someone born not-so-long-ago, no judgment here, I'm just trying to be honest, please don't be offended, a *weird* messaging platform. If you try to connect to https://libera.chat you'll see exactly what I mean.
 
