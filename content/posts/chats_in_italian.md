@@ -14,7 +14,7 @@ Nelle ultime due settimane ho avuto il piacere di partecipare a ben due eventi o
 
 ## checkpointbitcoin.it
 
-Ho avuto il piacere di farmi intervistare da Fabio di [checkpointbitcoin.it](checkpointbitcoin.it): abbiamo parlato di mining, di Stratum v2, di Bitcoindevkit (il progetto su cui ora sto lavorando) e di che wallet _fighi_ potremmo vedere nel futuro (spoiler: multisig e timelock!).
+Ho avuto il piacere di farmi intervistare da Fabio di [checkpointbitcoin.it](https://checkpointbitcoin.it): abbiamo parlato di mining, di Stratum v2, di Bitcoindevkit (il progetto su cui ora sto lavorando) e di che wallet _fighi_ potremmo vedere nel futuro (spoiler: multisig e timelock!).
 
 Guardaci su Youtube: https://www.youtube.com/watch?v=G9aA6Wuo4ac
 
