@@ -3,7 +3,6 @@ title: Chit-chats w/ italians 🇮🇹
 date: 2022-11-23T11:51:07+01:00
 tags:
     - Bitcoin
-    - Wallet
     - BDK
     - Mining
 ---
