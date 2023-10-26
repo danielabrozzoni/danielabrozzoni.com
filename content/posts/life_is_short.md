@@ -15,6 +15,8 @@ I gave a pretty sad talk about death, but people seemed to enjoy it, for some re
 
 I'm not literally going to transcribe everything I said - I'm just going to add some comments to the less verbose slides. 
 
+(Psss, if you prefer watching the recording, [here it is](../life_is_short_talk))
+
 Well, let's get started.
 
 ------- 
