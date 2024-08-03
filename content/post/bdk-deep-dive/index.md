@@ -7,7 +7,6 @@ categories:
     - Talk
 date: 2023-04-22 00:00:00
 description: A talk on building Bitcoin wallets
-image: cover.png
 ---
 
 A talk on Bitcoin wallets: what they are, how difficult it is to build one, and what tools can be of help (spoiler: rust-bitcoin, rust-miniscript, BDK).

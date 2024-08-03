@@ -7,7 +7,6 @@ tags:
 categories:
     - Talk
 description: A talk on the technical fundamentals of Bitcoin.
-image: cover.png
 ---
 
 
