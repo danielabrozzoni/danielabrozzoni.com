@@ -19,7 +19,7 @@ subtitle = "Cypherpunks write code"
 [sidebar.avatar]
 enabled = true
 local = true
-src = "/images/avatar.png"
+src = "images/avatar.png"
 
 [article]
 headingAnchor = false
