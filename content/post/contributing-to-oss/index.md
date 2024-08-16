@@ -8,6 +8,8 @@ tags:
     - Computer science
     - BDK
 description: A few suggestions for contributing to Bitcoin-related open source software.
+aliases:
+    - /posts/contributing_to_oss/
 ---
 
 I've been working on Bitcoin-related OSS for a while now - long enough that I don't fear `git reflog` anymore.
