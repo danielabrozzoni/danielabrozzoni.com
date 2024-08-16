@@ -6,6 +6,8 @@ tags:
     - Bitcoin
     - Lightning
 description: Import your LND onchain wallet into Sparrow by converting your Aezeed seed to a BIP32 key.
+alias:
+    - /p/import-your-lnd-onchain-wallet-into-sparrow/
 ---
 
 I recently had to recover some stuck funds from an onchain LND wallet. LND couldn't see the funds, and my only viable option was to re-import the seed into a different wallet and sweep everything.
