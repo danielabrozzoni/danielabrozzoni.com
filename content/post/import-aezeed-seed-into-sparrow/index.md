@@ -32,7 +32,7 @@ LND uses three types of wallets:
 You can see the wallets' addresses and their balances by running:
 
 ```
-lnci wallet addresses list
+lncli wallet addresses list
 ```
 
 The result will look like this:
