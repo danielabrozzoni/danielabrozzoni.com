@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://danielabrozzoni.com"
+# baseurl = "https://danielabrozzoni.com"
 languageCode = "en-us"
 paginate = 10
 title = "Daniela Brozzoni"
