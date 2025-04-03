@@ -7,6 +7,6 @@ tags:
     - Bitcoin
 ---
 
-My first zine! Ugly af, but it has a place in my heart, you know
+My first zine!
 
 ![](bitcoin-legacy-addresses.svg)
