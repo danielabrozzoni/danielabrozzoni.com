@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseURL = "https://danielabrozzoni.github.io/danielabrozzoni.com/"
+baseURL = "https://danielabrozzoni.github.io/danielabrozzoni-site/"
 languageCode = "en-us"
 paginate = 10
 title = "Daniela Brozzoni"
