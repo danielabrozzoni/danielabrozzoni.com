@@ -1,7 +1,7 @@
 # Change baseurl before deploy
 baseURL = "https://danielabrozzoni.com"
 languageCode = "en-us"
-paginate = 10
+pagination.pagerSize = 10
 title = "Daniela Brozzoni"
 theme = "hugo-theme-stack"
 
